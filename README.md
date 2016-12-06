@@ -1,2 +1,3 @@
 # hello-wor
-Should be hello world but "Something went wrong"
+
+Hello wor, I'm sorry ld couldn't make it today. Enjoy the code!
